@@ -6,6 +6,5 @@ The website is built using React.js, Node.js and Express.js.
 
 # Interface Screenshots
 
-![screencapture-localhost-3000-2021-11-11-11_39_01](https://user-images.githubusercontent.com/46554685/141246909-d53c4d03-57bd-4301-9ebe-d61a42ba2be6.png)
 
-
+![interface](https://user-images.githubusercontent.com/31813770/180387785-9aa9db6e-928f-4872-8c47-a00765492451.jpg)
