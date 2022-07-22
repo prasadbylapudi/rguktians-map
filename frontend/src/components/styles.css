@@ -1,0 +1,58 @@
+div, input, button, select, label{
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+input, button {
+  padding: 0.02rem;
+}
+
+h1,h2,h3,h4,h5,h6,label {
+  font-weight: bold;
+}
+
+select{
+  padding: 0.25rem;
+}
+
+.auth-wrapper {
+  background: #EAECEF !important;
+  min-height: 100vh;
+  display: flex;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.auth-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+}
+
+.auth-inner {
+  width: 465px;
+  margin: auto;
+  background: #ffffff;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+  padding: 20px 55px 45px 55px;
+  border-radius: 15px;
+  transition: all .3s;
+}
+
+.auth-wrapper h3 {
+  text-align: center;
+  margin: 0;
+  line-height: 1;
+  padding-bottom: 20px;
+}
+.formbutton {
+  display: block;
+  width: 100%;
+  border-radius: .4em;
+  background-color: #a2a9b1;
+  padding: 7px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}

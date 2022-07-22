@@ -1,0 +1,52 @@
+{
+  "S160196": {
+    "name": "Appala Naidu Gadu",
+    "email": "s160196@rguktsklm.ac.in",
+    "id": "S160196",
+    "pass": "PQR96",
+    "longitude": "82.239483",
+    "latitude": "17.2384923",
+    "campus": "Srikakulam",
+    "branch": "CSE",
+    "batch": 2016,
+    "bio": "Yet another developer!",
+    "github": "https://github.com/arrayappy",
+    "linkedin": "https://linkedin.com/in/arrayappy",
+    "twitter": "https://twitter.com/arrayappy",
+    "portfolio": "",
+    "profile": "S160196"
+  },
+  "S160589": {
+    "name": "Dinesh Pidugu",
+    "email": "dinesh@gmail.com",
+    "id": "S160589",
+    "pass": "",
+    "longitude": 82.218483,
+    "latitude": 16.686815,
+    "campus": "Srikakulam",
+    "branch": "CSE",
+    "batch": 2016,
+    "bio": "Do cool things, that matter!",
+    "github": "https://www.linkedin.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "portfolio": "https://www.linkedin.com/",
+    "profile": "2"
+  },
+  "S161000": {
+    "name": "PVBG Sharma",
+    "email": "s161000@rguktsklm.ac.in",
+    "id": "S161000",
+    "pass": "PQR00",
+    "longitude": "83.68483",
+    "latitude": "18.286815",
+    "campus": "Nuzvid",
+    "branch": "ECE",
+    "batch": 2016,
+    "bio": "Coder",
+    "github": "https://github.com/pvbgsharma",
+    "linkedin": "https://linkedin.com/in/sharma",
+    "twitter": "https://twitter.com/sharma",
+    "portfolio": "https://pvbgsharma.com",
+    "profile": "S161000"
+  }
+}
